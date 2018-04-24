@@ -9,10 +9,10 @@ public class Vuelo {
     private Vector<Reserva> reservas;
 
     public Vuelo(){
-       Avion avion = new Avion();
-       Piloto pilotoArray[] = new Piloto[2];
-       Compania_Aerea compania_aerea = new Compania_Aerea();
-      Vector<Reserva> reservas = new Vector<Reserva>();
+         avion = new Avion();
+         pilotoArray = new Piloto[2];
+        compania_aerea = new Compania_Aerea();
+        reservas = new Vector<Reserva>();
 
     }
 }

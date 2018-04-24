@@ -5,6 +5,6 @@ public class Piloto {
     Vector<Vuelo> vuelos;
     public void Piloto()
     {
-        Vector<Vuelo> vuelos = new Vector<Vuelo>();
+        vuelos = new Vector<Vuelo>();
     }
 }

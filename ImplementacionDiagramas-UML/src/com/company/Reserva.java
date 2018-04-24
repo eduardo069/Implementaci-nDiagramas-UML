@@ -5,6 +5,6 @@ public class Reserva {
 
     public void Reserva(){
 
-        Vuelo vuelos = new Vuelo();
+         vuelos = new Vuelo();
     }
 }

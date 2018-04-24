@@ -7,8 +7,8 @@ public class Avion {
     private Vector<Vuelo> vuelos;
     public Avion()
     {
-        Motor motores[] = new Motor[4];
-        Vector<Vuelo> vuelos = new Vector<Vuelo>();
+        motores = new Motor[4];
+        vuelos = new Vector<Vuelo>();
 
     }
 }
